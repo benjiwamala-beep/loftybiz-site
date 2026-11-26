@@ -11,6 +11,76 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/"/>
   </url>
+  <url>
+    <loc>https://loftybiz.net/systex/features/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/features/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/features/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/es/systex/features/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/features/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/features/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/systex/sy/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/sy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/sy/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/es/systex/sy/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/sy/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/sy/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/systex/how-it-works/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/es/systex/how-it-works/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/how-it-works/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/how-it-works/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/systex/mobile-voice/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/mobile-voice/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/mobile-voice/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/es/systex/mobile-voice/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/mobile-voice/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/mobile-voice/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/systex/who-its-for/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/who-its-for/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/who-its-for/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/es/systex/who-its-for/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/who-its-for/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/who-its-for/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/systex/faq/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/faq/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/es/systex/faq/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/faq/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/faq/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/systex/early-access/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/early-access/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/early-access/"/>
+  </url>
+  <url>
+    <loc>https://loftybiz.net/es/systex/early-access/</loc><lastmod>2026-11-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://loftybiz.net/systex/early-access/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://loftybiz.net/es/systex/early-access/"/>
+  </url>
   <url><loc>https://loftybiz.net/free/</loc><lastmod>2026-11-26</lastmod></url>
   <url><loc>https://loftybiz.net/es/free/</loc><lastmod>2026-11-26</lastmod></url>
 </urlset>
