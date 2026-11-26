@@ -528,3 +528,39 @@ nav ul {
   font-size: 0.95rem;
   margin: 0 0 0.2rem;
 }
+
+/* Systex section and download-page callout */
+#about,
+#watch,
+#systex,
+#contact {
+  scroll-margin-top: 5.25rem;
+}
+
+.status-label {
+  display: inline-block;
+  margin: 0 0 0 0.45rem;
+  padding: 0.12rem 0.55rem;
+  vertical-align: middle;
+  border-radius: 999px;
+  border: 1px solid rgba(255, 184, 0, 0.5);
+  color: var(--amber);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  position: relative;
+  top: -0.15em;
+}
+
+.callout {
+  padding: 1.05rem 1.2rem 1.1rem;
+}
+
+.callout p {
+  margin: 0;
+}
+
+.callout strong {
+  color: var(--white);
+}
