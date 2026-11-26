@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Host: https://loftybiz.net
+Sitemap: https://loftybiz.net/sitemap.xml
