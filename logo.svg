@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">LoftyBiz</title>
+  <!-- Original rising-steps mark: three amber bars, the tallest lifting into an arrow, with sky-blue system connectors. -->
+  <rect x="6" y="70" width="30" height="36" rx="8" fill="#FFB800"/>
+  <rect x="43" y="40" width="30" height="66" rx="8" fill="#FFB800"/>
+  <path fill="#FFB800" d="M80 106c0 4.4 3.6 8 8 8h16c4.4 0 8-3.6 8-8V30L96 8 80 30v76z"/>
+  <path fill="none" stroke="#4FA3FF" stroke-width="6" stroke-linecap="round" d="M12 82h38"/>
+  <circle cx="12" cy="82" r="5.5" fill="#4FA3FF"/>
+  <circle cx="50" cy="82" r="5.5" fill="#4FA3FF"/>
+  <path fill="none" stroke="#4FA3FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M66 72v-24h32v16"/>
+  <circle cx="66" cy="72" r="5.5" fill="#4FA3FF"/>
+  <circle cx="66" cy="48" r="5.5" fill="#4FA3FF"/>
+  <circle cx="98" cy="48" r="5.5" fill="#4FA3FF"/>
+  <circle cx="98" cy="64" r="5.5" fill="#4FA3FF"/>
+</svg>
