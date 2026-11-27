@@ -174,8 +174,17 @@ main {
 }
 
 .hero {
-  padding: 3.5rem 0 3rem;
-  text-align: center;
+  padding: 3.25rem 0 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem 3rem;
+  text-align: left;
+}
+
+.hero-copy {
+  flex: 1 1 22rem;
+  min-width: 0;
 }
 
 .hero-logo {
@@ -186,7 +195,7 @@ main {
 }
 
 .hero h1 {
-  margin: 0 auto 1rem;
+  margin: 0 0 1rem;
   max-width: 18ch;
   font-size: clamp(1.85rem, 5.4vw, 3.15rem);
   line-height: 1.15;
@@ -206,10 +215,33 @@ main {
 }
 
 .hero-lead {
-  margin: 0 auto 2rem;
+  margin: 0 0 2rem;
   max-width: 34rem;
   color: var(--slate);
   font-size: 1.12rem;
+}
+
+.hero .actions {
+  justify-content: flex-start;
+}
+
+.hero-mascot {
+  flex: 0 0 auto;
+  width: min(22rem, 44%);
+  max-width: 400px;
+}
+
+.hero-robot {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 18px 28px rgba(0, 0, 0, 0.38));
+  animation: lofty-float 5.5s ease-in-out infinite;
+}
+
+@keyframes lofty-float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
 }
 
 .actions {
@@ -344,6 +376,30 @@ section {
   max-width: 36rem;
 }
 
+@media (max-width: 800px) {
+  .hero {
+    flex-direction: column;
+    text-align: center;
+    padding: 2.4rem 0 2rem;
+    gap: 1.35rem;
+  }
+
+  .hero-mascot {
+    order: -1;
+    width: min(16.5rem, 70vw);
+    max-width: 280px;
+  }
+
+  .hero h1,
+  .hero-lead {
+    margin-inline: auto;
+  }
+
+  .hero .actions {
+    justify-content: center;
+  }
+}
+
 @media (max-width: 640px) {
   .wrap {
     width: min(var(--max), calc(100% - 1.5rem));
@@ -359,7 +415,7 @@ section {
   }
 
   .hero {
-    padding: 2.4rem 0 2rem;
+    padding: 2.2rem 0 2rem;
   }
 
   .hero-logo {
